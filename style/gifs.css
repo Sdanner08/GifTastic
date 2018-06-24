@@ -1,0 +1,36 @@
+
+body{
+    background-color: #587e76; 
+}
+#navBar, #footer{
+    background-color: #686256;
+    color: white;
+}
+.jumbotron{
+    background-color: #587e76;
+   
+}
+#gifSearch, #search{
+    background-color: #c1502e;
+    color:white;
+}
+
+
+#buttons-view{
+    background-color: #c1502e;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    clear: both;
+    color: white;
+    
+}
+#logo{
+    color: white;
+}
+.card-img-top {
+    height: 250px;
+    align-content: center;
+}
